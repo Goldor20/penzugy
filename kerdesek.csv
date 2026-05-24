@@ -34,4 +34,7 @@
 34;Y;Y;Pénzügyi döntés esetén, hosszútávon kell gondolkodni, csak olyan kockázatot vállani, ami számára kezelhető lehet.
 35;F;A;Mi védi a befektetők pénzét?
 36;Y;Y;A pénz időérték jelentése: Különböző időpontokbeli, de azonos pénznek a piacokon különböző értéke, azaz ára van.
-37;F;B;Mit jelent a kamatszámítás?
+37;F;D;Mi a pénznek áramlását?
+38;F;D;Mit nevezzünk pénzromlásnak?
+39;Y;N;Azért van szükség külső források bevonására, hogy pénzünket könnyebben tudjuk összespórolni.
+40;F;D;Mely célunkat milyen hitellel tudjuk elérni?
