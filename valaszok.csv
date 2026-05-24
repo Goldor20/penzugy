@@ -1,0 +1,119 @@
+1;A;Háztartások, Vállalatok
+1;B;Fogyasztó, Termelő
+1;C;Állam, Külföld
+1;D;Termelő, Szabályozó
+2;A;Igények, szükségek
+2;B;A pénz, meg a nagyobb haszon
+2;C;A félelem, hogy lemarad, meg a mohóság
+2;D;A holdfázisok és a rákok járása
+3;Y;Igen
+3;N;Nem
+4;A;Vedd számba az összes érvet pro és kontra
+4;B;Dobj fel egy érmét, de közben hunyd be a szemed
+4;C;A rendelkezésre álló információkat figyelembe véve
+4;D;Nézd meg, mit csinálnának mások a helyedben
+5;A;A jövedelemmel rendelkező emberek
+5;B;Akiknek ugyanaz a bankszámlája a bevásárlásra
+5;C;Akik közösen fizetik a rezsit
+5;D;Akiknek közös a bankszámlája
+6;Y;Igen
+6;N;Nem
+7;A;Alkalmi mellékállások
+7;B;Munkábol,Tulajdonbol,egyéb forrásokbol
+7;C;Amit a nagymama tologat a zsebbe
+7;D;Szerencsjáték nyeremények
+8;A;Élelmiszer, alkoholmentes ital
+8;B;Temetkezés, válás, és a kutya fogorvosa
+8;C;Kaja, pipere, gyógyszer
+8;D;Cigi, lottó
+9;A;Először költs, utána nézd meg, mennyi maradt
+9;B;Összevessük a havi bevételeket és kiadásokat
+9;C;Csak a nagyobb kiadásokat írd fel
+9;D;Írd fel, hogy mennyi a bevételed, majd becsüld meg nagyjából
+10;Y;Igen
+10;N;Nem
+11;A;Negatív az egyenleg, ha a hónap végére még mindig van pénz a zsebedben
+11;B;A költségvetés egyenlege mindig nulla – csak az a kérdés, hogy te nulláztad le tudatosan, vagy a véletlen
+11;C;Az egyenleg mindig pozitív, ha nem nézed meg a számláidat
+11;D;Ha a bevételek meghaladják a kiadásokat, akkor megtakarítás. Kiadások nagyobbak a bevételek, akkor hiány jön létre
+12;A;Bankszámlán érdemes
+12;B;A párna alatt
+12;C;Mindig készpénzben
+12;D;Tedd félre abba a befektetési alapba, amit a banki ügyintéző épp rád akar sózni
+13;A;Nézd meg, hol a legmagasabb a számlanyitási bónusz
+13;B;Azt a bankot válaszd, amelyiknek a legszebb a mobilappja
+13;C;Menj el arra a bankba, ahol a sor a legrövidebb
+13;D;Tájékozódjunk arról, hogy az általunk kiválasztott szolgáltatásoknak a szóba jöhető bankoknál mekkora a költsége
+14;Y;Igen
+14;N;Nem
+15;Y;Igen
+15;N;Nem
+16;Y;Igen
+16;N;Nem
+17;A;Figyelembe véve tulajdonságait, belföldi vagy külföldi használatát, az éves díj és milyen gyakran szeretnénk használni
+17;B;A lényeg, hogy minél több helyen fogadják el
+17;C;A legfontosabb szempont, hogy legyen hozzá pontgyűjtő program
+17;D;Azt nézd, melyik kártyának a legszebb a színe – a fekete az mindig a legmenőbb
+18;Y;Igen
+18;N;Nem
+19;Y;Igen
+19;N;Nem
+20;A;Amikor kiveszed a pénzt a fiókból, elköltöd, majd a maradékot visszateszed
+20;B;A pénz állandó, szakadtlan körforgását, a pénztulajdonosok közöti pénzmozgások öszeségét
+20;C;Amikor a pénz átmegy az egyik zsebedből a másikba
+20;D;A pénzforgalom az, amit a bank levon a számládról minden hónapban
+21;A;A legelterjedtebb fizetési módok az átutalás, valamint a beszedési megbízás
+21;B;Bankkártya, csekk
+21;C;Csak a Revolut meg a PayPal számít
+21;D;Az összes létező app, ami a telefonodon van
+22;A;Hogy tudd, mikor engedheted meg magadnak a következő nagyobb felesleges kiadást
+22;B;Hogy a banki tanácsadónak legyen munkája
+22;C;A pénzügyi terv olyan, mint egy útiterv: megmutatja az előre kitűzött célokhoz vezető utat
+22;D;Azért, hogy rájöjj, mennyivel kevesebbet keresel, mint gondoltad
+23;Y;Igen
+23;N;Nem
+24;Y;Igen
+24;N;Nem
+25;A;Azért, hogy legyen miből költeni, amikor épp nincs miből
+25;B;Azért, mert a nagymama mindig mondta, és neki mindig igaza volt
+25;C;Ha el akarunk érni egy távolabbi célt, akkor azt saját erőből csak így tudjunk megvalósítani, vagy egy esetleges pénzügyi krízisre tudunk reagálni
+26;A;Jelenlegi pénzügyi helyzet, mennyi idő alatt tehető pénzé, mennyire biztonságos, mennyi nyereséget hozz
+26;B;Válaszd azt, amiről a legtöbbet posztolják a közösségi médiában
+26;C;Minél nagyobb a kockázat, annál biztosabb a nyereség
+27;Y;Igen
+27;N;Nem
+28;A;Választhatunk a bankszámlán leköthető betétektől kezdve a részvényeken át, tehetjük a megrakarításunkat euróba, esetleg más devizába
+28;B;Szerencsjáték
+29;Y;Igen
+29;N;Nem
+30;A;A részvények tulajdonjogot megtestesítő, lejárat nélküli értékpapírok. Kötvények hitelviszonyt megtestesítő értékpapírok, amely az adott kölcsön feltételeit rögzítik írásban. 
+30;B;A kötvény az, amikor te adsz kölcsön a cégnek, a részvény meg az, amikor a cég kölcsönad neked
+31;Y;Igen
+31;N;Nem
+32;Y;Igen
+32;N;Nem
+33;A;A legnagyobb kockázat, hogy a bank csődbe megy, és elveszik az összes pénzed
+33;B;Hogy túl sokat keresel vele, és emiatt több adót kell fizetned
+33;C;Lehet kamatkockázat, hitelkockázat, piaci kockázat, likviditási kockázatról és devizakockázatról
+34;Y;Igen
+34;N;Nem
+35;A;Ha a bank nem tudja visszafizetni a nála betétet lekötők pénzét, akkor, az Országis Betétbiztosítási Alap meghatározott keretek között kisegíti
+35;B;A szerencse.
+35;C;A befektetési alap kezelőjének a becsületszava
+35;D;A banki titoktartás
+36;Y;Igen
+36;N;Nem
+37;A;Amikor a pénz elindul a tárcádból a boltba, onnan a beszállítóhoz, majd a gyárba, végül vissza a tárcádba
+37;B;Amikor a pénz átmegy az egyik ember zsebéből a másikéba
+37;C;Amikor a fizetésed megérkezik, majd szépen kiszivárog a rezsire, kajára, meg minden másra
+37;D;A pénzáramlás lényegében a pénzforrások képződésének és felhasználásának folyamata egy meghatározott időszak alatt.
+38;A;Amikor a pénz megunja a tárcádat, és inkább elszökik egy jobb gazdához 
+38;B;Azt, amikor a fizetésed ugyanannyi marad, de a pékségben a kifli kisebb lesz
+38;C;Amikor a pénzedet otthon hagyod a nadrágzsebben, és a mosás után összegyűri, összefolyik
+38;D;Tartós árszínvonal-emelkedést jelent, ami az egységnyi pénz értéktelenedését jelzi. A tartós árszínvonal-emelkedés következménye az egységnyi pénz elértéktelenedése.
+39;Y;Igen
+39;N;Nem
+40;A;Lakásvásárláshoz áruhitelt érdemes felvenni
+40;B;Ha egy új televíziót szeretnél, arra a legjobb a lakáshitel
+40;C;Autóvásárláshoz a legjobb a személyi kölcsön, mert azt nem kell megindokolnod
+40;D;Lakáscélok; fogyasztási hitelek, személyi hitel, diákhitel.
