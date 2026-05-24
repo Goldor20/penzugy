@@ -1,0 +1,37 @@
+1;F;B;Kik a gazdaság alapvető szereplői?
+2;F;A;Mi mozgatja a gazdaság szereplőit?
+3;Y;Y;Azért kell állandóan gazdasági döntéseket hoznunk, hogy igényeinket kielégítsük?
+4;F;C;Hogyan hozzunk jó döntést?
+5;F;A;Kik alkotnak egy háztartást?
+6;Y;N;Egy háztatás bevételéhez tartoznak: Családi pótlék, szocilális segélyek, öregséig és rokkantsági nyugdíj.
+7;F;B;Milyen bevételei lehetnek egy háztartásnak?
+8;F;A;Milyen kiadási lehetnek egy háztartásnak a KSH hat kategóríábajából?
+9;F;B;Mi a költségvetés, és hogyan készítsük el?
+10;Y;Y;A költségvetés olyan pénzügyi terv, amely egy háztartás adott időszak alatt keletkező bevételeit és kiadásait összegzi.
+11;F;D;Hogyan alakulhat a költségvetés egyenlege?
+12;F;A;Hol érdemes a pénzünket tartani?
+13;F;D;Hogyan kell bankot és bankszámlát választani?
+14;Y;N;Bankügyleinket érdemes intézni nyílvános Wi-Fi hálózaton.
+15;Y;Y;A bankkártya, a bankok által kibocsátott készpénz-helyettesítő fizetési eszköz, amely lehetővé teszi, hogy ne készpénzel fizessünk.
+16;Y;N;Ha a bankkártyán, kikapcsoljuk a pénzfelvételi korlátokat, hogy sokkal könnyeben vihessük végre a vásárlást.
+17;F;A;Milyen szempontokat kell mérlegelni a kártya kiválasztásakor?
+18;Y;Y;Bankkárytatípúsai: betéti és hitelkártya.
+19;Y;N;A bankszámlakivonat például a bolti nyugta.
+20;F;B;Mit neveznek pénzforgalomnak?
+21;F;A;Milyen készpénz nélküli fizetési módok vannak?
+22;F;D;Miért van szükség pénzügyi tervre?
+23;Y;Y;Kitűzött céljaink elérésben fontos, azok sorba rendezése, milyen időtávon érhető el, figyelembe véve pénzügyi helyzetünket.
+24;Y;N;Egy háztartás erőforrásai közé tartoznak: külső, hozzáférhetletlen vagy elherdált javak.
+25;F;C;Miért érdemes megtakarítani?
+26;F;A;Milyen szempontokat mérlegeljünk,  ha befektetjük a pénzünket?
+27;Y;Y;Az EBKM egy mérőszám, amely éves szinten százalékban határozza meg a betétek valódi hozamát/kamatát.
+28;F;A;Milyen befektetési lehetőségek közül választhatunk?
+29;Y;N;Érték papírók egy szabadon felhasználható, szóbeli ígéret egy összeg kifizetésére, semmilyen köze sincs az államhoz.
+30;F;A;Mi a különbség a kötvények és a részvények között?
+31;Y;Y;Állampapírnaknak nevezzük az állam által kibocsátott, hitelviszonyt.
+32;Y;N;Állampapírokat a legérdemes nem eladni, hanem cserélni.
+33;F;C;Milyen kockázatok merülnek fel egy befektetés során?
+34;Y;Y;Pénzügyi döntés esetén, hosszútávon kell gondolkodni, csak olyan kockázatot vállani, ami számára kezelhető lehet.
+35;F;A;Mi védi a befektetők pénzét?
+36;Y;Y;A pénz időérték jelentése: Különböző időpontokbeli, de azonos pénznek a piacokon különböző értéke, azaz ára van.
+37;F;B;Mit jelent a kamatszámítás?
