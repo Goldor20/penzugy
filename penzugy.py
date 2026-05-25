@@ -11,8 +11,8 @@ class Valasz():
         self.id = id
         self.valasz = valasz
 
-t = []
-t1 = []
+kerdes = []
+valasz = []
 file = open("kerdesek.csv", encoding="utf-8")
 fajl = open("valaszok.csv", encoding="utf-8")
 adat1 = file.readline().strip()
@@ -21,22 +21,22 @@ adat2 = fajl.readline().strip()
 while adat1 != "":
     adat1 = adat1.split(";")
     adat1[0] = int(adat1[0])
-    t.append(Kerdes(adat1[0],adat1[1],adat1[2],adat1[3])) 
+    kerdes.append(Kerdes(adat1[0],adat1[1],adat1[2],adat1[3])) 
     adat1 = file.readline().strip()
 
 while adat2 != "":
     adat2 = adat2.split(";")
     adat2[0] = int(adat2[0])
-    t1.append(Valasz(adat2[0],adat2[1],adat2[2])) 
+    valasz.append(Valasz(adat2[0],adat2[1],adat2[2])) 
     adat2 = file.readline().strip()
 
 be1 = int(input(f"Hány kört szeretne játszani (max: {round(len(t)/2)}): "))
-while be1 > len(t)/2:
+while be1 > len(kerdes)/2:
     be1 = int(input(f"Hány kört szeretne játszani (max: {round(len(t)/2)}): "))
 szamlalo1 = 0
 szamlalo2 = 0
 
 for i in range(be1):
-    veletlen = random.choice(t)
+    veletlen = random.choice(kerdes)
     
 
