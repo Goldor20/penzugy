@@ -33,7 +33,7 @@
 10;Y;Igen
 10;N;Nem
 11;A;Negatív az egyenleg, ha a hónap végére még mindig van pénz a zsebedben
-11;B;A költségvetés egyenlege mindig nulla – csak az a kérdés, hogy te nulláztad le tudatosan, vagy a véletlen
+11;B;A költségvetés egyenlege mindig nulla csak az a kérdés, hogy te nulláztad le tudatosan, vagy a véletlen
 11;C;Az egyenleg mindig pozitív, ha nem nézed meg a számláidat
 11;D;Ha a bevételek meghaladják a kiadásokat, akkor megtakarítás. Kiadások nagyobbak a bevételek, akkor hiány jön létre
 12;A;Bankszámlán érdemes
@@ -53,7 +53,7 @@
 17;A;Figyelembe véve tulajdonságait, belföldi vagy külföldi használatát, az éves díj és milyen gyakran szeretnénk használni
 17;B;A lényeg, hogy minél több helyen fogadják el
 17;C;A legfontosabb szempont, hogy legyen hozzá pontgyűjtő program
-17;D;Azt nézd, melyik kártyának a legszebb a színe – a fekete az mindig a legmenőbb
+17;D;Azt nézd, melyik kártyának a legszebb a színe a fekete az mindig a legmenőbb
 18;Y;Igen
 18;N;Nem
 19;Y;Igen
@@ -116,4 +116,64 @@
 40;A;Lakásvásárláshoz áruhitelt érdemes felvenni
 40;B;Ha egy új televíziót szeretnél, arra a legjobb a lakáshitel
 40;C;Autóvásárláshoz a legjobb a személyi kölcsön, mert azt nem kell megindokolnod
-40;D;Lakáscélok; fogyasztási hitelek, személyi hitel, diákhitel.
+40;D;Lakáscélok, fogyasztási hitelek, személyi hitel, diákhitel.
+41;A;Törlesztés Hatását Mérő szám
+41;B;Teljes hiteldíj mutató
+41;C;A THM a bank szeretetnyelve
+41;D;Teljes Hülyeség Mutatója
+42;Y;Igen
+42;N;Nem
+43;Y;Igen
+43;N;Nem
+44;A;Mondj egy számot, ami belefér a keretedbe a bank majd ahhoz igazítja a futamidőt meg a kamatot, csak épp te jössz ki rosszul belőle
+44;B;A törlesztőrészletet a bank számítja ki, de csak akkor árulja el, ha már aláírtad a szerződést addig úgyse érdekel.
+44;C;Vedd a hitelösszeget, szorozd meg kettővel, majd oszd el az évek számával a maradék a havi törlesztő
+44;D;A számítás a kamatozás módjától függ
+45;A;A hitelek összehasonlítására
+45;B;hiteled végére mennyivel leszel szegényebb
+46;Y;Igen
+46;N;Nem
+47;A;Haláleset
+47;B;ellopják a biciklidet
+47;C;Gyakorlatilag mindenre
+47;D;a szomszéd kutyája túl hangosan ugat
+48;Y;Igen
+48;N;Nem
+49;A;Menj vissza az üzletbe, és veszekedj össze az első eladóval
+49;B;Írj egy nagyon dühös kommentet a Facebook-oldalukra
+49;C;Közvetlen panasztétel a kereskedőnél
+49;D;Soha ne reklamálj, mert attól csak rosszabb lesz
+50;A;Ne csinálj semmit, mert a bankok úgyis mindig a saját érdeküket nézik
+50;B;Hivatalos panasz a pénzügyi szolgáltatónál
+50;C;Először is hívd fel az ügyfélszolgálatot, és várd ki, amíg a harmadik zeneszámnál felveszik
+50;D;Írj egy negatív értékelést a Google-ben
+51;Y;Igen
+51;N;Nem
+52;A;A bruttó az, amit a főnököd gondol, hogy neked ad, a nettó meg az, amit a feleséged szerint hazaviszel
+52;B;A bruttó a nagy, szép szám a szerződésedben, a nettó a kicsi, csúnya szám a számládon
+52;C;A bruttó bér a kiindulási alap, a nettó bér amit elkölthetsz
+52;D;A bruttó bér az egész, a nettó meg a fele
+53;Y;Igen
+53;N;Nem
+54;Y;Igen
+54;N;Nem
+55;A;Egy termék vagy szolgáltatás ára emelkedik, a vásárlók kevesebbet vesznek belőle, ha pedig az ára csökken, többet vásárolnak belőle
+55;B;Minél drágább valami, annál többen akarják mert ha drága, akkor biztos jó
+55;C;A boltban mindig az a termék fogy el, amit te szerettél volna venni
+55;D;Ha valamiből kevés van, azt mindenki akarja
+56;Y;Igen
+56;N;Nem
+57;A;Pénzt, szerencsét, meg azt, hogy ki ismeri kit
+57;B;Pénz, türelem
+57;C;Vizet, levegőt meg embereket
+57;D;Emberi erőforrás, Reáltőke
+58;A;Piacgazdaság
+58;B;Demokrácia
+58;C;Vegyes gazdaság
+58;D; Szokásjogon alapuló gazdaság
+59;A;Az aranykor
+59;B;Fémpénz korszaka
+59;C;A bitcoin korszak
+59;D;Az inflációs korszak
+60;Y;Igen
+60;N;Nem
