@@ -28,15 +28,37 @@ while adat2 != "":
     adat2 = adat2.split(";")
     adat2[0] = int(adat2[0])
     valasz.append(Valasz(adat2[0],adat2[1],adat2[2])) 
-    adat2 = file.readline().strip()
+    adat2 = fajl.readline().strip()
 
-be1 = int(input(f"Hány kört szeretne játszani (max: {round(len(t)/2)}): "))
+be1 = int(input(f"Hány kört szeretne játszani (max: {round(len(kerdes)/2)}): "))
 while be1 > len(kerdes)/2:
-    be1 = int(input(f"Hány kört szeretne játszani (max: {round(len(t)/2)}): "))
+    be1 = int(input(f"Hány kört szeretne játszani (max: {round(len(kerdes)/2)}): "))
 szamlalo1 = 0
 szamlalo2 = 0
 
 for i in range(be1):
     veletlen = random.choice(kerdes)
-    
+    print(f"{i+1}. Kérdés: {veletlen.szoveg}")
+    for n in range(2):
+        print(f"--- {n+1}. játékos válasza ---")
+        
+        if veletlen.tipus == "Y":
+            be2 = input("Y/N: ")
+            if be2 == veletlen.helyes:
+                if n == 0: szamlalo1 += 2
+                else: szamlalo2 += 2
+        
+        elif veletlen.tipus == "F":
+            print("Választható lehetőségek:")
+            for v in valasz:
+                if v.sorszam == veletlen.sorszam:
+                    print(f"{v.id}) {v.valasz}")
+            
+            be2 = input("Írd be a választ jelentő betűt: ")
+            if be2 == veletlen.helyes:
+                if n == 0:
+                    szamlalo1 += 1
+                else:
+                    szamlalo2 += 1
 
+    print(f"Jelenlegi állás: {szamlalo1} - {szamlalo2}")
