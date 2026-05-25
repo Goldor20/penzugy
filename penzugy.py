@@ -36,8 +36,15 @@ while be1 > len(kerdes)/2:
 szamlalo1 = 0
 szamlalo2 = 0
 
-for i in range(be1):
-    veletlen = random.choice(kerdes)
+print("Üdvözlettem! Szeretném ismertetni a játék szabályait:")
+print("A játékban kettő csapat játszik. A játék folyamán kettő típusú feladat van, felelet választás, vagy igaz hamis")
+print("A felelet választós kérdések 1 pontot érnek")
+print("Az igaz hamis feladatatok kettő pontot érnek.")
+print("Jó játékot kívánok a játékosoknak!")
+
+valasztott_kerdesek = random.sample(kerdes, be1)
+
+for i, veletlen in enumerate(valasztott_kerdesek):
     if veletlen.tipus == "Y":
         print(f"DUPLAPONTOS KÉRDÉS!!!")
         print(f"{i+1}. Kérdés: {veletlen.szoveg}")
