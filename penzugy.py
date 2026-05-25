@@ -38,12 +38,17 @@ szamlalo2 = 0
 
 for i in range(be1):
     veletlen = random.choice(kerdes)
-    print(f"{i+1}. Kérdés: {veletlen.szoveg}")
+    if veletlen.tipus == "Y":
+        print(f"DUPLAPONTOS KÉRDÉS!!!")
+        print(f"{i+1}. Kérdés: {veletlen.szoveg}")
+    else:
+        print(f"{i+1}. Kérdés: {veletlen.szoveg}")
     for n in range(2):
         print(f"--- {n+1}. játékos válasza ---")
         
         if veletlen.tipus == "Y":
             be2 = input("Y/N: ")
+            be2 = be2.upper()
             if be2 == veletlen.helyes:
                 if n == 0: szamlalo1 += 2
                 else: szamlalo2 += 2
@@ -55,6 +60,7 @@ for i in range(be1):
                     print(f"{v.id}) {v.valasz}")
             
             be2 = input("Írd be a választ jelentő betűt: ")
+            be2 = be2.upper()
             if be2 == veletlen.helyes:
                 if n == 0:
                     szamlalo1 += 1
